@@ -1,0 +1,12 @@
+[DEFAULT]
+# example: discord
+notificattion_driver =
+
+[DISCORD]
+
+#-------------------#
+# Discord webhook
+#-------------------#
+command_head =
+webhook_username =
+webhook_url =
