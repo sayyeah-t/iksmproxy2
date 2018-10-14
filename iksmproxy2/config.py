@@ -8,3 +8,4 @@ class Configuration:
 
         self.default = config['DEFAULT']
         self.discord = config['DISCORD']
+        self.slack = config['SLACK']

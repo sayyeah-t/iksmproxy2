@@ -10,3 +10,7 @@ notificattion_driver =
 command_head =
 webhook_username =
 webhook_url =
+
+[SLACK]
+command_head =
+webhook_url =
